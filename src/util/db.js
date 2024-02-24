@@ -5,7 +5,7 @@ const db = mysql.createConnection({
     user: 'id21919721_vimean',
     password: 'V@908080v',
     database: 'id21919721_ecommerce',
-   
+    port: "",
 })
 
 // promise wrapper to enable async await with mysql
