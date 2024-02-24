@@ -2,7 +2,7 @@ const multer = require("multer");
 const fs = require("fs");
 
 const Config = {
-  image_path: "C:/wamp/www/img_node/ecommerce/",
+  image_path: "https://github.com/SorpheaVimean/deployEcommerce/tree/main/image",
 };
 
 const upload = multer({
