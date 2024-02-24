@@ -2,10 +2,10 @@ const mysql = require('mysql');
 const util = require('util');
 const db = mysql.createConnection({
     host: 'localhost',
-    user: 'root',
-    password: '',
-    database: 'ecommerce',
-    port: "3306"
+    user: 'id21919721_vimean',
+    password: 'V@908080v',
+    database: 'id21919721_ecommerce',
+   
 })
 
 // promise wrapper to enable async await with mysql
